@@ -20,6 +20,14 @@ nav {
     
 }
 
+#bio-image
+{float: left;}
+
+#about-me
+{
+    color: #4aaaa5;
+}
+
 main-header
 
 p {
@@ -27,7 +35,14 @@ p {
 
 }
 
-footer {}
+footer {
+background: #777777;
+color: #cccccc;
+height: 20px;
+text-align: center;
+width: 100%;
+border-color: #4aaaa5;
+}
 
 
 /*
